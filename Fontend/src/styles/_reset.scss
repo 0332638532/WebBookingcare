@@ -1,0 +1,45 @@
+html {
+  box-sizing: border-box;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+input,
+textarea,
+select,
+button {
+  outline: none;
+  font-size: 1.4rem;
+}
+input {
+  line-height: normal;
+  font-size: 1.4rem;
+}
+label,
+button {
+  cursor: pointer;
+}
+a {
+  text-decoration: none;
+}
+img {
+  display: block;
+  max-width: 100%;
+}
+form {
+  font-size: 1.6rem;
+}

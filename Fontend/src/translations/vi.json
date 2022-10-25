@@ -1,0 +1,172 @@
+{
+  "homeheader": {
+    "homepage": "Trang Chủ",
+    "speciality": "Chuyên Khoa",
+    "health-facilities": "Cơ Sở Y Tế",
+    "handbook": "Cẩm Nang",
+    "cooperation-contact": "Liên Hệ Hợp Tác",
+    "welcome": "Xin chào, "
+  },
+  "homebanner": {
+    "finddoctor": "Tìm bác sĩ - bệnh nhân dễ dàng hơn",
+    "descbanner": "Chủ động đặt lịch hẹn thông minh và được chăm sóc tận tình"
+  },
+  "menu": {
+    "admin": {
+      "manage-user": "Người dùng",
+      "manage-doctor": "Quản lý bác sĩ",
+      "manage-admin": "Quản lý admin",
+      "crud": "Danh sách người dùng",
+      "crud-redux": "Quản lý người dùng",
+      "clinic": "Phòng khám",
+      "manage-clinic": "Quản lý phòng khám",
+      "specialty": "Chuyên khoa",
+      "manage-specialty": "Quản lý chuyên khoa",
+      "handbook": "Cẩm Nang",
+      "manage-handbook": "Quản lý cẩm nang"
+    },
+    "doctor": {
+      "manage-schedule": "Quản lý lịch khám bệnh",
+      "manage-patient": "Quản lý bệnh nhân đặt lịch khám bệnh"
+    }
+  },
+  "manage-user": {
+    "add": "Thêm mới người dùng",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "first-name": "Họ",
+    "last-name": "Tên",
+    "phone-number": "Số điện thoại",
+    "address": "Địa chỉ",
+    "gender": "Giới tính",
+    "position": "Chức danh",
+    "role": "Vai trò",
+    "image": "Ảnh đại diện",
+    "Save": "Thêm",
+    "Edit": "Lưu thay đổi"
+  },
+
+  "advertisment-home": {
+    "title1": "100% Bác Sĩ Được Cấp Phép",
+    "title2": "Đặt Lịch Nhanh Chóng",
+    "title3": "Đánh Giá Thực Tế Từ Bệnh Nhân"
+  },
+
+  "specialty-home": {
+    "title": "Chuyên khoa phổ biến",
+    "more-info": "Xem thêm"
+  },
+
+  "handbook-home": {
+    "title": "Cẩm nang",
+    "more-info": "Xem thêm"
+  },
+
+  "healthyFacialty-home": {
+    "title": "Cơ sở y tế nổi bậc",
+    "more-info": "Xem thêm"
+  },
+
+  "outstandingdoctor-home": {
+    "title": "BÁC SĨ NỔI BẬC",
+    "more-info": "Xem thêm",
+    "desc": "Đặt khám trực tiếp tới đội ngũ bác sĩ của ISOFHCARE có trình độ chuyên môn cao, nhiều năm kinh nghiệm, giàu y đức, giúp bạn hoàn toàn chủ động lựa chọn thời gian khám",
+    "doctor": "Bác sĩ ơi"
+  },
+
+  "footer-page": {
+    "company": "Công ty 1 thành viên",
+    "address": "Địa chỉ",
+    "addressInfo": "Tầng 6, Tòa nhà FORD, 313-315 Trường Chinh, Thanh Xuân Hà Nội",
+    "phone": "Số Điện Thoại",
+    "phoneInfo": "1900 638 367",
+    "email": "Email",
+    "emailInfo": "isofhcare@isofhcare.com",
+    "link": "Liên Kết",
+    "link1": "Liên kết hợp tác",
+    "link2": "Câu hỏi thường gặp",
+    "link3": "Điều khoản sử dụng",
+    "link4": "Chính sách bảo mật",
+    "downloadApp": "Tải App",
+    "downloadAppInfo": "Tải Miễn Phí ISOFHCARE - Ứng Dụng Đặt Lịch Khám Online Hàng Đầu",
+    "qr": "Quét QR Code Để",
+    "socials": "Mạng Xã Hội"
+  },
+
+  "manage-schedule": {
+    "title": "Quản lý lịch khám bệnh của bác sĩ",
+    "choose-doctor": "Chọn bác sĩ",
+    "choose-date": "Chọn ngày",
+    "save-info": "Lưu thông tin",
+    "choosePrice": "Chọn Giá",
+    "choosePayment": "Chọn Phương Thức Thanh Toán",
+    "chooseProvince": "Chọn Tỉnh Thành",
+    "chooseNameSchedule": "Chọn Tên Phòng Khám",
+    "chooseAddressSchedule": "Chọn Địa Chỉ Phòng Khám",
+    "chooseSpecialty": "Chọn chuyên khoa",
+    "chooseClinic": "Chọn phòng khám",
+    "note": "Ghi Chú"
+  },
+
+  "manage-patient": {
+    "datetimeSchedule": "Chọn lịch ngày khám",
+    "id": "STT",
+    "time": "Thời Gian Đặt",
+    "email": "Email",
+    "fullName": "Họ Tên",
+    "address": "Địa Chỉ",
+    "phone": "Số Điện Thoại",
+    "gender": "Giới Tính",
+    "actions": "Chức Năng",
+    "confirm": "Xác Nhận"
+  },
+
+  "page-detail-doctor": {
+    "schedule": "Lịch Khám",
+    "scheduleDate": "Chọn Ngày Khám",
+    "scheduleTime": "Thời gian khám",
+    "scheduleAddress": "Địa chỉ khám",
+    "nameClinic": "Tên phòng khám",
+    "payment": "Hình thức thanh toán",
+    "subPayment": "Có thể thanh toán thông qua",
+    "scheduleNote": "ghi chú",
+    "schedulePrice": "giá khám"
+  },
+
+  "page-detail-specialty": {
+    "infoDoctor": "Thông tin bác sĩ"
+  },
+
+  "admin": {
+    "manage-doctor": {
+      "title": "Tạo thêm thông tin bác sĩ",
+      "chooseInfo": "Chọn bác sĩ",
+      "produceInfo": "Thông tin giới thiệu",
+      "createInfo": "Tạo thông tin",
+      "saveInfo": "Lưu thông tin"
+    }
+  },
+
+  "book-modal": {
+    "infoBookModal": "thông tin đặt lịch khám bệnh",
+    "priceBookModal": "Giá khám",
+    "dateBookModal": "Ngày đặt",
+    "timeBookModal": "Thời gian đặt",
+    "fullName": "Họ tên",
+    "numberPhone": "Số điện thoại",
+    "email": "Địa chỉ email",
+    "address": "Địa chỉ liên hệ",
+    "birthday": "Ngày sinh",
+    "gender": "Giới tính",
+    "reason": "Lý do khám bệnh"
+  },
+
+  "verify-email": {
+    "notifySuccess": "Đã xác nhận đặt lịch thành công ! ",
+    "notifySuccessMoreInfo": "Hệ thống sẽ cập nhật và thông báo qua số điện thoại hoặc email trong thời gian ngắn nhất.",
+    "notifyThankyou": "Xin chân thành cảm ơn quý khách đã đặt lịch khám bệnh tại ISOFHCARE ! ",
+    "notifyFailed": "Lịch hẹn đã được xác nhận hoặc đã tồn tại !",
+    "notifyLink": "Vui lòng quay về trang chủ để biết thêm thông tin tại ISOFHCARE ! ",
+    "notifyLinkHere": "Nhấn tại đây"
+  }
+}

@@ -1,0 +1,35 @@
+.managePatient {
+  font-size: 1.6rem;
+  max-width: 125rem;
+  margin: 0 auto;
+  .col-4 {
+    padding: 0;
+  }
+
+  input {
+    font-size: 1.4rem;
+  }
+
+  table {
+    border-radius: 0.5rem;
+  }
+  th {
+    background-color: #335;
+    font-size: 1.6rem;
+  }
+  td {
+    font-size: 1.4rem;
+    .btn-confirm {
+      display: inline-block;
+      padding: 0.4rem 0.6rem;
+      background-color: #00af95;
+      border-radius: 0.5rem;
+      color: #fff;
+      cursor: pointer;
+      transition: 0.2s linear;
+      &:hover {
+        background-color: #335;
+      }
+    }
+  }
+}
